@@ -1,5 +1,5 @@
 # SciTrailBlazer - built on top of arxiv-sanity-lite (https://github.com/karpathy/arxiv-sanity-lite)
-
+Builds a summarization layer on top of articles using modern llm agents and used summarizations to recommend papers based on a goal prompt (research, product, business, ...) - Later extending to more knowledge DBs and maybe turning into a product
 
 
 ---
